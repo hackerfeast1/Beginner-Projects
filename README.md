@@ -6,13 +6,13 @@
  - A repository by hacktoberfest repository maintainer.
 
 ## How to contribute?
- Read [CONTRIBUTING.MD]() for more information.
+ Read [CONTRIBUTING.MD](https://github.com/hackerfeast1/Beginner-Projects/blob/main/CONTRIBUTING.md) for more information.
 
 ## Projects
  - All projects are from contributors.
  - New github users can learn by contributing their projects here.
  - Create an issue regarding your project and pull request to merge the project.
- - Don't Forget to Add your project link in the [Projects.md]() file.
+ - Don't Forget to Add your project link in the [Projects.md](https://github.com/hackerfeast1/Beginner-Projects/blob/main/Projects.md) file.
  - Make sure that you commit in a new folder so that other's projects might not be affected.
 
  
