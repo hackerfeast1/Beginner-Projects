@@ -1,4 +1,4 @@
-# Contributing to DEV Mate!
+# Contributing to the Repository!
 
 First off, thanks for taking the time to contribute! ❤️
 
@@ -27,7 +27,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 ## Code of Conduct
 
 This project and everyone participating in it is governed by the
-[DEV Mate! Code of Conduct](blob/master/CODE_OF_CONDUCT.md).
+[Code of Conduct](blob/master/CODE_OF_CONDUCT.md).
 By participating, you are expected to uphold this code. Please report unacceptable behavior
 to <>.
 
