@@ -13,9 +13,8 @@
  - New github users can learn by contributing their projects here.
  - Create an issue regarding your project and pull request to merge the project.
  - Don't Forget to Add your project link in the [Projects.md]() file.
+ - Make sure that you commit in a new folder so that other's projects might not be affected.
 
-### Project List:
- - Edit here...
  
 ## Contributors
  - 
