@@ -111,15 +111,29 @@ Once it's filed:
    ` git clone repository-link`
    
    The `repository-link` must be copied from the green button displaying "Code" in the `https` tab.
-   
+ - Change working directory to the Repository directory `cd Beginner-Projects`
  - Create a new branch
  ` git checkout -b [name_of_your_new_branch] `
- 
- - Make necessary changes(in a new folder for your project such that it can't affect others project] and
- `git push origin [name_of_your_new_branch]` to push your changes to the branch on github.
- - Create a pull request with necessary statements about your contribution.
- - Make sure that you do not create a duplicate project that is already present in other names.
- - Wait for us to merge the pull request.
+ - Make necessary changes(in a new folder for your project such that it can't affect others project] then stage your changes `git add your-project-directory`
+ - Then commit your changes `git commit -m your-username`
+ - `git push origin [name_of_your_new_branch]` to push your changes to the branch on github.
+
+> **Warning**: If you get an error message like the one below, you probably forgot to fork the repository before cloning it. It is best to start over and fork the project repository first.
+
+```bash
+ERROR: Permission to KapilKumar7/Hacktoberfest2022-masai.git denied to <your-github-username>.
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights and the repository exists.
+```
+
+ - On the GitHub website, navigate to your forked repo - on the top of the files section, you'll notice a new section containing a `Compare & Pull Request` button!
+
+- Click on that button, this will load a new page, comparing the local branch in your forked repository against the main branch in the EddieHub Hacktoberfest repository. Accept the default values in the dropdown boxes and click the green `Create Pull Request` button. After creating the PR (Pull Request), our GitHub Actions workflow will add a welcome message to your PR.
+  Note: A pull request allows us to merge your changes with the original project repo.
+
+- Your pull request will be reviewed and then eventually merged.
+
+Hurray! You successfully have made your first contribution! 🎉
  
 
 <!-- omit in toc -->
